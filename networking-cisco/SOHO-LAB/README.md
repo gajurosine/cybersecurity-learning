@@ -13,4 +13,8 @@ This project demonstrates **Module 1: Communication in a Connected World**. I bu
 2.  **The Router's Role:** While the switch handles communication between PC1 and PC2, the Router is essential for any traffic intended for a different network.
 3.  **Troubleshooting "Red X":** I learned to filter traffic in Simulation Mode to distinguish between background protocols (STP/DTP) and my actual data (ICMP).
 ## 📹 Video Demo
-<video src="networking-cisco.mp4" width="100%" controls></video>
+## 📹 Video Demo
+
+<video src="networking-cisco.mp4" width="100%" controls>
+  Your browser does not support the video tag. <a href="networking-cisco.mp4">Click here to download the video.</a>
+</video>
